@@ -1,2 +1,2 @@
-# Evercraft
-trying to create a rpg/roure inspited by evercraft
+# EvercraftA1
+python backbone - probing if EverCraft-Kata is fun
